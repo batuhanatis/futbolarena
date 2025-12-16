@@ -1,0 +1,5 @@
+{
+  "name": "100 Kişiye Sorduk",
+  "description": "Family Feud style game show application with AI-powered question generation, host control, and audience display board.",
+  "requestFramePermissions": []
+}
